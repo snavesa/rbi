@@ -1,0 +1,10 @@
+catonetworks.com
+*.catonetworks.com
+cisco.com
+*.cisco.com
+fortinet.com
+*.fortinet.com
+netskope.com
+*.netskope.com
+zscaler.com
+*.zscaler.com
