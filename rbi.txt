@@ -4,6 +4,8 @@ cisco.com
 *.cisco.com
 fortinet.com
 *.fortinet.com
+m365.cloud.microsoft
+*.m365.cloud.microsoft
 netskope.com
 *.netskope.com
 zscaler.com
